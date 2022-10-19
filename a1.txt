@@ -1,10 +1,5 @@
-my name is anuja
-i am in nanded 
-<<<<<<< HEAD
-gn
-=======
-just for u
-??
->>>>>>> test
+hiiiii
+hello
+bye
 
 
